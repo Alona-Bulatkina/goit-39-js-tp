@@ -1,0 +1,38 @@
+@import './utils/variables';
+
+@import './base/common';
+@import './base/container';
+
+@import './base/fonts';
+
+@import './base/visually-hidden';
+
+@import './components/_button-back-to-top';
+
+@import './layout/header';
+@import './layout/footer';
+
+@import './layout/gallery';
+@import './layout/library-screen';
+
+@import './components/team-members';
+
+@import './layout/card-list';
+
+@import './layout/modal';
+@import './layout/modal-movie-template';
+@import './components/modal-buttons';
+
+@import './components/pagination';
+
+@import './components/spinner';
+@import './components/toolbar-styles';
+
+// ~~~
+// /*
+//  * Главный файл стилей.
+//  * Все паршалы подключаются сюда.
+//  */
+
+// // Стили для файла с примером HTML-фрагмента
+// @import './example';

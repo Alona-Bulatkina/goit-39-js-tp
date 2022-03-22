@@ -1,0 +1,26 @@
+// width
+$mobile-min: 320px;
+$mobile-max: 767px;
+$tablet-min: 768px;
+$tablet-max: 1023px;
+$desktop-min: 1024px;
+
+// colors
+$white-color: #ffffff;
+$light-grey-color-text: #8c8c8c;
+$grey-color-background: #f7f7f7;
+$dark-grey-color-text: #545454;
+$black-color: #000000;
+
+$accent-color: #ff6b01;
+$secondary-accent-color: #ff6b08;
+$notice-color: #ff001b;
+
+$footer-color: #292929;
+
+// fonts
+$main-font: 'Roboto', sans-serif;
+
+// timing-function
+$timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+$duration: 300ms;
